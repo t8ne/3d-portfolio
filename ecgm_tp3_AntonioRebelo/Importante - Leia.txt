@@ -1,0 +1,9 @@
+
+Se houver qualquer textura em falta faça: File - External Data - Find Missing Files e escolha a pasta das texturas.
+
+
+Se nas placas neon não houverem letras, terá que clicar na aba verde de cada texto e na secção "Font", clicar no ícone da pasta na opção Regular, entrar na pasta da esquerda chamada "Fonts", pesquisar por "yu" e selecionar a opção "Yu Gothic Bold".
+
+
+Obrigado,
+António Rebelo - Nº28837.
