@@ -4,13 +4,11 @@ Welcome to my 3D portfolio! This project showcases my skills in creating and dis
 
 ## Preview
 
-Below is a preview of 3 of the 3D scenes featured in the portfolio:
+Below is a preview of 2 of the 3D projects featured in the portfolio:
 
-![Portfolio Preview](FotosTP3/1.jpg)
+![Portfolio Preview](tp3-store/FotosTP3/1.jpg)
 ---
-![Portfolio Preview](FotosTP3/2.jpg)
----
-![Portfolio Preview](FotosTP3/5.jpg)
+![Portfolio Preview](tp2-sakura/Render.png)
 
 ## Features
 
