@@ -4,7 +4,7 @@ Welcome to my 3D portfolio! This project showcases my skills in creating and dis
 
 ## Preview
 
-Below is a preview of 3 of the 3D projects featured in the portfolio:
+Below is a preview of some of the 3D projects featured in the portfolio:
 
 <div align="center">
   <img src="tp1-f1/f1-animation.gif" alt="TP1">
@@ -12,6 +12,8 @@ Below is a preview of 3 of the 3D projects featured in the portfolio:
    <img src="tp2-sakura/Render.png" alt="TP2">
   <hr>
   <img src="tp3-store/FotosTP3/1.jpg" alt="TP3">
+  <hr>
+  <img src="random-files/mush.png" alt="Mushroom">
 </div>
 
 ## Features
